@@ -1,0 +1,24 @@
+h1 {
+	color: darkgreen;
+}
+
+h2 {
+	color: #1460AA;
+	background: rgb(230, 210, 210);
+}
+
+section {
+	background: #7fc5da;
+}
+
+body {
+	background: #fefefe;
+}
+
+#first {
+	color:#cd11c1;
+}
+
+.next p {
+	background:#9d071e;
+}
