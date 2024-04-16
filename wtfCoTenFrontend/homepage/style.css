@@ -16,13 +16,18 @@ body {
 }
 
 #first {
-	color:#cd11c1;
+	background: #172d34;
+	color:#9adc92;
 }
 
-.next p {
-	background:#9d071e;
+.next {
+	background:#db7882;
 }
 
 div {
 	background: #7fc5da;
+}
+
+.bigbang h3 {
+	background: #9adc92;
 }
