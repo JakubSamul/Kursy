@@ -1,5 +1,14 @@
+html {
+	box-sizing: border-box;
+}
+
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+
 h1 {
 	color: darkgreen;
+	padding: 16px;
 }
 
 h2 {
@@ -34,4 +43,12 @@ div {
 
 .yoloWaterPolo h2 {
 	background: yellow;
+}
+
+section {
+	padding: 16px;
+}
+
+footer {
+	padding: 16px;
 }
